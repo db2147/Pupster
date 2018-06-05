@@ -1,0 +1,11 @@
+form.search {
+  overflow: auto;
+  margin-bottom: 10px;
+  background-color: rgb(238, 167, 34);
+}
+
+form.search button[type="submit"] {
+  float: right;
+  margin-top: 10px;
+}
+
