@@ -19,7 +19,7 @@ const About = () =>
       <Row>
         <Col size="md-12">
           <p>
-            
+            Pupster is a place to meet that special dog, or to make friends with a new pooch.
 
 
           </p>
